@@ -26,7 +26,7 @@ export default function Home() {
       <TwitterIcon />
       </svg>
       </a>
-     <a href='https://github.com/ravindrabhati22' target='_blank'>
+     <a href='https://github.com/Ritikbhati22' target='_blank'>
       <svg className='h-10 w-10 mr-5 hover:text-gray-600'>
       <GithubIcon />
       </svg>
